@@ -26,7 +26,7 @@ public class PruebaArduino {
         window.setVisible(true);*/
         
         FramePrincipal aplicacion = new FramePrincipal("Robot");
-        Dimension x = new Dimension(400,150);
+        Dimension x = new Dimension(300,150);
         aplicacion.setPreferredSize(x);
         aplicacion.setLocation(400, 0);
         aplicacion.setFocusable(true);
